@@ -19,7 +19,7 @@ The goal is to identify which factors most influence employee resignations and b
 
 📁 Repository Contents
 
-IBM Human Resources Employee Analysis Book - Information about the Features
+IBM Human Resources Employee Analytics Data Book - Information about the Features
 
 WA_Fn-UseC_-HR-Employee-Attrition.csv - IBM Employee Attrition Dataset 
 
